@@ -1,0 +1,19 @@
+packages/wrangler/src/__tests__/dev/remote-bindings-errors.test.ts
+  s_4d541a7ed5b170::t_5a1a9ab55fe1f4 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "28180ed3fa316778e0f9c56f207229319f803f03",
+  "prompts": {},
+  "sessions": {
+    "s_4d541a7ed5b170": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0775f0ab3ffewkjFEdLjFhWCEH",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rohan Mukherjee <rmukherjee@cloudflare.com>"
+    }
+  }
+}
